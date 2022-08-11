@@ -14,8 +14,6 @@
   height: 300px;
 }
 
-
-
 .button button {
   margin-top: 20px;
   background-color: rgb(176, 88, 17);
@@ -36,7 +34,7 @@
   margin-top: 1cm;
 }
 .navbar {
-  background-color: rgb(204, 215, 223);
+  background-color: rgb(255, 255, 255);
 }
 .image_id {
   margin-right: 5px;
